@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 #include "student.h"
 
 int main()
@@ -35,4 +36,3 @@ int main()
   printStudent(&student[i]);
 }
 }
-
