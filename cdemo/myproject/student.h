@@ -9,10 +9,5 @@ struct Student {
 
 };
 
-void printStudent (struct Student * student)
-{
-  printf("Here is the information for student %s %s.\n", student->firstname, stu$
-  printf("Age: %d\n", student->age);
-  printf("Student ID: %d\n", student->studentid);
-}
+void printStudent (struct Student * student);
 
