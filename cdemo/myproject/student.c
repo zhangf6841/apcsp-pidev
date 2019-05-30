@@ -1,3 +1,4 @@
+
 int main()
 {
   char input[100], firstname[100], lastname[100]; 
